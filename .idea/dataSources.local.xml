@@ -5,5 +5,10 @@
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
       <auth-required>false</auth-required>
     </data-source>
+    <data-source name="identifier.sqlite" uuid="f611bc1c-35f0-4d60-8af7-2ca52aded918">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+    </data-source>
   </component>
 </project>
