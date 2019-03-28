@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3827c6b-7524-4101-8123-a5042b14c2ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/lab-assignment-3-correa-canepa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab-assignment-3-correa-canepa.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/event.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/event.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/order.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/order.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/ticket.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/ticket.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/venue.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/venue.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20190327141618_create_tickets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20190327141618_create_tickets.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20190327174342_add_order_to_ticket.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20190327174342_add_order_to_ticket.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -42,14 +32,14 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4716981">
+    <splitter split-orientation="horizontal" split-proportion="0.39555556">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/db/seeds.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+                <state relative-caret-position="240">
+                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
                 </state>
               </provider>
             </entry>
@@ -170,8 +160,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/models/event.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+                <state relative-caret-position="135">
+                  <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -390,12 +380,12 @@
       <workItem from="1553718777413" duration="3149000" />
       <workItem from="1553725785784" duration="1459000" />
       <workItem from="1553737390424" duration="5152000" />
-      <workItem from="1553775821599" duration="7001000" />
+      <workItem from="1553775821599" duration="8302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31218000" />
+    <option name="totallyTimeSpent" value="32519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="27" width="1327" height="741" extended-state="6" />
@@ -569,15 +559,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/event.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
