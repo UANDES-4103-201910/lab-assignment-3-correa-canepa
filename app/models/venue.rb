@@ -6,8 +6,7 @@ class Venue < ApplicationRecord
     event_id = last_event.id
     tickets = Ticket.where("event_id = #{event_id}")
     sold_tickets = tickets.count
-    #puts "Amount: #{sold_tickets}"
-    #sold_tickets
+    return sold_tickets
   end
 
 end
