@@ -1,4 +1,4 @@
 class Order < ApplicationRecord
-  belongs_to :userr, required:false
+  belongs_to :user, required:false
   has_many :tickets
 end
