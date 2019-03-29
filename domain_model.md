@@ -9,6 +9,7 @@ The User model will buy Tickets through Orders.
 - string: email
 - string: password
 - string: address
+- string: phone
 
 #### Relationships
 User has many Orders
